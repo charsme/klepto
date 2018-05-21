@@ -1,4 +1,13 @@
 /vendor/
-composer.lock
 /storage/
+.vscode/
 
+composer.lock
+.env
+.DS_Store
+.log
+*.ignore
+
+.idea/*
+*.iml
+projectFilesBackup
